@@ -21,7 +21,7 @@
 ## Setup
 To run this project, install it locally using npm:
 ```
-$ cd ./dt-money
+$ cd ./ignite_shop
 $ npm i
 $ npm run dev
 ```
